@@ -1,0 +1,6 @@
+<Response>
+    <GetDigits action="http://www.foo.com/gather_pin/" method="POST">
+        <Speak>Enter your 4-digit pin number, followed by the hash key</Speak>
+    </GetDigits>
+    <Speak> Input not received. Thank you </Speak>
+</Response>
