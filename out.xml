@@ -1,8 +1,8 @@
-
+<Response>
      <Speak>your call has been transferred.</Speak>
     <GetDigits action="http://www.foo.com/gather_pin/" method="POST">
         <Speak>Enter 1 for support and 2 for sales</Speak>
     </GetDigits>
     
     <Speak> Input not received. Thank you </Speak>
-
+</Response>
